@@ -1,6 +1,6 @@
 # Proyecto PHP Intermedio
 
-Este proyecto contiene ejemplos y ejercicios de nivel intermedio en PHP, diseñados para profundizar en conceptos como manejo de formularios, sesiones, cookies, conexión a bases de datos y buenas prácticas de desarrollo.
+Este proyecto contiene los conceptos de nivel intermedio en PHP, diseñados para profundizar en temas como manejo de formularios, sesiones, cookies, conexión a bases de datos y buenas prácticas de desarrollo.
 
 ## Requisitos
 
@@ -8,19 +8,25 @@ Este proyecto contiene ejemplos y ejercicios de nivel intermedio en PHP, diseña
 
 ## Uso
 
-1. Abre una terminal y navega al directorio del proyecto:
+1. Abre una terminal y clona el repositorio:
 
    ```sh
-   cd ruta_php/php_intermedio
+   git clone https://github.com/HBE-Quantumisp/php_intermedio.git
    ```
 
-2. Inicia el servidor embebido de PHP con el siguiente comando:
+2. Navega al directorio del proyecto:
+
+   ```sh
+   cd php_intermedio
+   ```
+
+3. Inicia el servidor embebido de PHP con el siguiente comando:
 
    ```sh
    php -S localhost:5000
    ```
 
-3. Abre tu navegador y visita [http://localhost:5000](http://localhost:5000) para acceder a la aplicación.
+4. Abre tu navegador y visita [http://localhost:5000](http://localhost:5000) para acceder a la aplicación.
 
 ## Estructura del proyecto
 
